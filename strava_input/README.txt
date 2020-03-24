@@ -1,0 +1,1 @@
+Download and extract your Strava data to this folder
