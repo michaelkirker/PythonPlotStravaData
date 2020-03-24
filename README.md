@@ -19,7 +19,7 @@ Michael Kirker
 
 The following is the most recent output from running the Jupyter notebook
 
-![Example](.\output\my_activities.png)
+![screenshot](https://i.imgur.com/51X1OZN.png)
 
 
 
